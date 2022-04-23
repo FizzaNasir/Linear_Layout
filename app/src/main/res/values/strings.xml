@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1st_project</string>
+    <string name="button_click">Click me</string>
+    <string name="username">Username</string>
+    <string name="enterYourName">Enter Your name</string>
+    <string name="enterEmail">Enter Email</string>
+</resources>
